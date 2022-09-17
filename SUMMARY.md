@@ -30,6 +30,7 @@
   * [Setting Up Instance (Pterodactyl Panel - Portainer)](setup/setting-up-instance/setting-up-instance-pterodactyl-panel-portainer.md)
   * [Setting Up Instance (Wings -  Portainer)](setup/setting-up-instance/setting-up-instance-wings-portainer.md)
   * [Setting Up Instance (NGINX)](setup/setting-up-instance/setting-up-instance-nginx.md)
+  * [Attaching Your Block Volume](setup/setting-up-instance/attaching-your-block-volume.md)
 * [Java Garbage Collector Flags](setup/java-garbage-collector-flags.md)
 
 ## Mod List
