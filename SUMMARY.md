@@ -16,6 +16,7 @@
 
 * [Setting Up Oracle](setup/setting-up-oracle/README.md)
   * [Creating An Instance](setup/setting-up-oracle/creating-an-instance.md)
+  * [What Ports To Open?](setup/setting-up-oracle/what-ports-to-open.md)
   * [Firewall](setup/setting-up-oracle/firewall.md)
   * [Block Storage](setup/setting-up-oracle/block-storage.md)
 * [Setting Up Instance](setup/setting-up-instance/README.md)
