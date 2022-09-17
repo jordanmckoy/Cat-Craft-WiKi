@@ -4,7 +4,7 @@ Block storage is an optional (but useful!) addition to your Minecraft server. At
 
 Navigate to the Storage tab, and click on Block Volume.&#x20;
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 From there, you'll want to Select Create Block Volumes.\
 ![](<../../.gitbook/assets/image (1) (1).png>)
@@ -16,7 +16,7 @@ With that, your Block Volume should be allocated. Now we just need to link it to
 ![](<../../.gitbook/assets/image (6) (1).png>)
 
 Scrolling down on the Block Volume Page, you'll find an Attached Instances option. Opening that, and it will give you the option to add a new instance to your Block Volume. \
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 Scroll down to the Instances section, and select your instance from the pre-generated list. \
 ![](<../../.gitbook/assets/image (9) (1).png>)
