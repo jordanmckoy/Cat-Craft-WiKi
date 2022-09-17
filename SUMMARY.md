@@ -20,6 +20,7 @@
   * [Setting Up Oracle Subnet](setup/setting-up-oracle/setting-up-oracle-subnet.md)
   * [Block Storage](setup/setting-up-oracle/block-storage.md)
 * [Setting Up Instance](setup/setting-up-instance/README.md)
+  * [Connecting To Your Instance](setup/setting-up-instance/connecting-to-your-instance.md)
   * [Firewall Setup](setup/setting-up-instance/firewall-setup.md)
   * [Setting up Instance (Portainer Server)](setup/setting-up-instance/setting-up-instance-portainer-server.md)
   * [Setting Up Instance (Portainer Agent)](setup/setting-up-instance/setting-up-instance-portainer-agent.md)
