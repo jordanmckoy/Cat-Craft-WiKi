@@ -23,5 +23,5 @@ Optional Ports&#x20;
 * 8100 TCP Bluemap
 * 8804 TCP Plan Player Analytics
 * 3306 TCP For MariaDB/MySQL Databases
-* 19132 TCP Geyser
+* 19132 UDP Geyser
 
