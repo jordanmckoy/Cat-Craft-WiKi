@@ -27,8 +27,8 @@
   * [Setting up Instance (Portainer Server)](setup/setting-up-instance/setting-up-instance-portainer-server.md)
   * [Setting Up Instance (Portainer Agent)](setup/setting-up-instance/setting-up-instance-portainer-agent.md)
 * [Setting Up Pterodactyl Standalone](setup/setting-up-pterodactyl-standalone/README.md)
-  * [Setting Up Instance (Wings -  Standalone)](setup/setting-up-pterodactyl-standalone/setting-up-instance-wings-standalone.md)
-  * [Setting Up Instance (Pterodactyl Panel - Standalone)](setup/setting-up-pterodactyl-standalone/setting-up-instance-pterodactyl-panel-standalone.md)
+  * [Setting Up Instance (Wings -  Standalone)](setup/setting-up-instance/setting-up-instance-wings-standalone.md)
+  * [Setting Up Instance (Pterodactyl Panel - Standalone)](setup/setting-up-instance/setting-up-instance-pterodactyl-panel-standalone.md)
 * [Setting Up Pterodactyl in Portainer](setup/setting-up-pterodactyl-in-portainer.md)
 * [Java Garbage Collector Flags](setup/java-garbage-collector-flags.md)
 
