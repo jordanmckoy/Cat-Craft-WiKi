@@ -66,7 +66,7 @@ To adapt to your specific setup, you can read the setup documentation [here](htt
 In our case, we are setting up Portainer in a standalone docker container on a Linux VM\
 
 
-Ensure that you have the ports open for Portainer on both [Oracle ](../setting-up-oracle/setting-up-oracle-subnet.md)and your [VM](../setting-up-instance/firewall-setup.md). Check the previous [section](../setting-up-oracle/what-ports-to-open.md) on what ports to open for the ports to your specific installation.
+Ensure that you have the ports open for Portainer on both [Oracle ](../setting-up-oracle/setting-up-oracle-subnet.md)and your [VM](firewall-setup.md). Check the previous [section](../setting-up-oracle/what-ports-to-open.md) on what ports to open for the ports to your specific installation.
 
 <pre data-overflow="wrap"><code>//  Making Portainer Data Volume For Data Storage
 sudo docker volume create portainer_data
