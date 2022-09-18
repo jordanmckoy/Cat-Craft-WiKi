@@ -12,4 +12,6 @@
 
 [Servercore](https://www.curseforge.com/minecraft/mc-mods/servercore) - Very configurable to reduce lag spikes. Set your alterations carefully, to not effect vanilla gameplay.&#x20;
 
+[Starlight](https://modrinth.com/mod/starlight) - Rewrites the Minecraft lighting engine
+
 [TimeOutOut](https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric) - Allows for configurable player timeouts. Useful for people with slower connections.
