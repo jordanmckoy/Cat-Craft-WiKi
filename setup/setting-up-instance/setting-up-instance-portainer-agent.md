@@ -6,10 +6,6 @@ The Portainer agent also runs in a Docker container, so ensure that you have [Do
 
 In the last section after installing docker we also started a container for the Portainer Server. This is the only change from the last section. This can  run on the same instance as the Portainer Server or on a remote server.
 
-<pre data-overflow="wrap"><code>// Running Docker Container For Portainer Agent
-
-<strong>sudo docker run -d -p 9001:9001 --name portainer_agent --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /var/lib/docker/volumes:/var/lib/docker/volumes portainer/agent:latest</strong></code></pre>
-
 To connect the Portainer Agent to the Portainer Server, follow this guide below =)
 
 [https://docs.portainer.io/admin/environments/add/docker](https://docs.portainer.io/admin/environments/add/docker)
