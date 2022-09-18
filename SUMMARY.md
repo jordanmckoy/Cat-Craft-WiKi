@@ -25,12 +25,13 @@
   * [Firewall Setup](setup/setting-up-instance/firewall-setup.md)
   * [Setting up Instance (Portainer Server)](setup/setting-up-instance/setting-up-instance-portainer-server.md)
   * [Setting Up Instance (Portainer Agent)](setup/setting-up-instance/setting-up-instance-portainer-agent.md)
-  * [Setting Up Instance (Database)](setup/setting-up-instance/setting-up-instance-database.md)
   * [Setting Up Instance (Pterodactyl Panel - Standalone)](setup/setting-up-instance/setting-up-instance-pterodactyl-panel-standalone.md)
   * [Setting Up Instance (Wings -  Standalone)](setup/setting-up-instance/setting-up-instance-wings-standalone.md)
-  * [Setting Up Instance (Pterodactyl Panel - Portainer)](setup/setting-up-instance/setting-up-instance-pterodactyl-panel-portainer.md)
-  * [Setting Up Instance (Wings -  Portainer)](setup/setting-up-instance/setting-up-instance-wings-portainer.md)
-  * [Setting Up Instance (NGINX)](setup/setting-up-instance/setting-up-instance-nginx.md)
+* [Setting Up Pterodactyl in Portainer](setup/setting-up-pterodactyl-in-portainer/README.md)
+  * [Setting Up Instance (Database)](setup/setting-up-pterodactyl-in-portainer/setting-up-instance-database.md)
+  * [Setting Up Instance (NGINX)](setup/setting-up-pterodactyl-in-portainer/setting-up-instance-nginx.md)
+  * [Setting Up Instance (Pterodactyl Panel - Portainer)](setup/setting-up-pterodactyl-in-portainer/setting-up-instance-pterodactyl-panel-portainer.md)
+  * [Setting Up Instance (Wings -  Portainer)](setup/setting-up-pterodactyl-in-portainer/setting-up-instance-wings-portainer.md)
 * [Java Garbage Collector Flags](setup/java-garbage-collector-flags.md)
 
 ## Mod List
