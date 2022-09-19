@@ -29,14 +29,14 @@ You'll want to copy and paste the sdb UUID to a notepad, for later use. \
 ![](<../../.gitbook/assets/image (17).png>)
 
 **sudo nano /etc/fstab**\
-****![](<../../.gitbook/assets/image (15).png>)****
+****![](<../../.gitbook/assets/image (15) (1).png>)****
 
 At the bottom of this document, you'll want to paste in your UUID, followed by this information, and shown here. \
 **UUID="UUID goes here" /mnt/minecraft ext4 defaults,noatime,\_netdev 0 2**\
 ****![](<../../.gitbook/assets/image (18).png>)****
 
 Ctrl+X, and then Y after this window pops up. \
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 **sudo mount -a**
 

@@ -11,6 +11,7 @@
 * [Pterodactyl Panel](technologies/pterodactyl-panel.md)
 * [Nginx](technologies/nginx.md)
 * [MariaDB](technologies/mariadb.md)
+* [Cert Bot](technologies/cert-bot.md)
 
 ## Setup
 
@@ -40,3 +41,9 @@
 * [Analytics](mod-list/analytics.md)
 * [Map](mod-list/map.md)
 * [Recommended Client Side Mods](mod-list/recommended-client-side-mods.md)
+
+***
+
+* [Resources](resources/README.md)
+  * [Panel Docker Compose File](resources/panel-docker-compose-file.md)
+  * [Wings Docker Compose File](resources/wings-docker-compose-file.md)
