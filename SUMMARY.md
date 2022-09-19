@@ -11,7 +11,6 @@
 * [Pterodactyl Panel](technologies/pterodactyl-panel.md)
 * [Nginx](technologies/nginx.md)
 * [MariaDB](technologies/mariadb.md)
-* [Cert Bot](technologies/cert-bot.md)
 
 ## Setup
 
@@ -30,7 +29,6 @@
 * [Setting Up Pterodactyl Standalone](setup/setting-up-pterodactyl-standalone/README.md)
   * [Setting Up Instance (Pterodactyl Panel - Standalone)](setup/setting-up-instance/setting-up-instance-pterodactyl-panel-standalone.md)
 * [Setting Up Pterodactyl in Portainer](setup/setting-up-pterodactyl-in-portainer.md)
-* [Java Garbage Collector Flags](setup/java-garbage-collector-flags.md)
 
 ## Mod List
 
@@ -48,3 +46,4 @@
   * [Portainer Resources](resources/portainer-resources.md)
   * [Panel Docker Compose File](resources/panel-docker-compose-file.md)
   * [Wings Docker Compose File](resources/wings-docker-compose-file.md)
+  * [Java Flags](resources/java-flags.md)

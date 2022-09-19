@@ -1,2 +1,0 @@
-# Java Garbage Collector Flags
-
