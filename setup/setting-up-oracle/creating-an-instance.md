@@ -7,7 +7,7 @@ Name your instance, and remember what domain you picked. This Will be important 
 ![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 Change the image to Canonical Linux. \
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (6) (2).png>)
 

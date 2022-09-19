@@ -24,6 +24,8 @@
 
 [PlanPlayerAnalytics](https://github.com/plan-player-analytics/Plan) - Tracks player analytics.&#x20;
 
+[Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - Performance profiler
+
 [Status](https://github.com/henkelmax/status) - Allows people to set their status in Minecraft, if they're recording or don't want to be disturbed.&#x20;
 
 [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - Allows connection to the server with out of date clients. Works in combination with GeyserMC and Floodgate.

@@ -15,28 +15,28 @@ Under the Connect field, hit the copy button. Back in Termius, paste those 3 lin
 ![](<../../.gitbook/assets/image (3).png>)
 
 Next, enter **sudo mkfs -t ext4 /dev/sdb** \
-****![](<../../.gitbook/assets/image (23).png>)****
+****![](<../../.gitbook/assets/image (23) (1).png>)****
 
 Enter **lsblk -f**\
-****![](<../../.gitbook/assets/image (21).png>)****
+****![](<../../.gitbook/assets/image (21) (1).png>)****
 
 **sudo mkdir /mnt/minecraft**
 
 **sudo blkid**\
-****![](<../../.gitbook/assets/image (11).png>)****
+****![](<../../.gitbook/assets/image (11) (2).png>)****
 
 You'll want to copy and paste the sdb UUID to a notepad, for later use. \
 ![](<../../.gitbook/assets/image (17).png>)
 
 **sudo nano /etc/fstab**\
-****![](<../../.gitbook/assets/image (15) (1).png>)****
+****![](<../../.gitbook/assets/image (15).png>)****
 
 At the bottom of this document, you'll want to paste in your UUID, followed by this information, and shown here. \
 **UUID="UUID goes here" /mnt/minecraft ext4 defaults,noatime,\_netdev 0 2**\
-****![](<../../.gitbook/assets/image (18).png>)****
+****![](<../../.gitbook/assets/image (18) (1).png>)****
 
 Ctrl+X, and then Y after this window pops up. \
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 **sudo mount -a**
 

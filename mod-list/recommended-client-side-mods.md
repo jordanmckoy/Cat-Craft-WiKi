@@ -6,6 +6,8 @@
 
 [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Reduces memory usage.&#x20;
 
+[Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller) - Client-side that aids redstoners automate mundane manual tasks.
+
 [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) - Optimizes network stack
 
 [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) - Makes the initialization of DataFixerUpper "lazy"
@@ -28,10 +30,11 @@
 
 [Status](https://github.com/henkelmax/status) - Allows players to set their current Status for recording, streaming or Do Not Disturb
 
+[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - Client-side that aids redstoners automate mundane manual tasks and some nice tweaks.
+
 [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) - Client-side Minimap
 
 [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files) - Client-side World map, works in conjunction with the minimap.
 
-[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - Client-side that aids redstoners automate mundane manual tasks and some nice tweaks.
 
-[Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller) - Client-side that aids redstoners automate mundane manual tasks.
+
