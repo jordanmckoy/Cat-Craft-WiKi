@@ -7,7 +7,7 @@ Open Termius, and in the upper left hand corner, you should see a small Gear Ico
 ![](<../../.gitbook/assets/image (2).png>)
 
 Within your Preferences section, you'll want to click on Keychain, to setup your new Instances Private Key. \
-![](<../../.gitbook/assets/image (27).png>)
+![](../../.gitbook/assets/image.png)
 
 Click on New, and a side window should pop open. You'll want to fill out Set a Label, and then drag and drop your key file into the bottom box, and hit Export to Host.\
 ![](<../../.gitbook/assets/image (25).png>)

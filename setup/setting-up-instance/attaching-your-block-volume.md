@@ -12,7 +12,7 @@ Select ISCSI Commands and Information. A window will pop up, click on LInux. Tha
 ![](<../../.gitbook/assets/image (13).png>)
 
 Under the Connect field, hit the copy button. Back in Termius, paste those 3 lines as one, using Ctrl+Shift+V and hit enter.\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 Next, enter **sudo mkfs -t ext4 /dev/sdb** \
 ****![](<../../.gitbook/assets/image (23).png>)****
@@ -26,7 +26,7 @@ Enter **lsblk -f**\
 ****![](<../../.gitbook/assets/image (11).png>)****
 
 You'll want to copy and paste the sdb UUID to a notepad, for later use. \
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 **sudo nano /etc/fstab**\
 ****![](<../../.gitbook/assets/image (15).png>)****
@@ -42,7 +42,7 @@ Ctrl+X, and then Y after this window pops up. \
 
 **df -aTh**\
 ****This is checking to make sure the Block Volume is properly mounted. At the very bottom of the list, you should see /dev/sdb, with a size of \~143G. This will indicate that your block volume is correctly attached to your instance.\
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 
 
