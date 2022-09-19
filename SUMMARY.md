@@ -46,4 +46,4 @@
   * [Portainer Resources](resources/portainer-resources.md)
   * [Panel Docker Compose File](resources/panel-docker-compose-file.md)
   * [Wings Docker Compose File](resources/wings-docker-compose-file.md)
-  * [Java Flags](resources/java-flags.md)
+  * [Java Flags](setup/java-garbage-collector-flags.md)

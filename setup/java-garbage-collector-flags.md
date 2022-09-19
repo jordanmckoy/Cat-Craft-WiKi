@@ -1,3 +1,7 @@
+---
+description: Start up Flags Generator - https://startmc.sh/
+---
+
 # Java Flags
 
 ### Recommended JVM Startup Flags[​](https://docs.papermc.io/paper/aikars-flags#recommended-jvm-startup-flags) <a href="#recommended-jvm-startup-flags" id="recommended-jvm-startup-flags"></a>
