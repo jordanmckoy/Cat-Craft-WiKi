@@ -15,25 +15,25 @@ Under the Connect field, hit the copy button. Back in Termius, paste those 3 lin
 ![](<../../.gitbook/assets/image (3).png>)
 
 Next, enter **sudo mkfs -t ext4 /dev/sdb** \
-****![](<../../.gitbook/assets/image (23) (1).png>)****
+****![](<../../.gitbook/assets/image (23).png>)****
 
 Enter **lsblk -f**\
-****![](<../../.gitbook/assets/image (21) (1).png>)****
+****![](<../../.gitbook/assets/image (21).png>)****
 
 **sudo mkdir /mnt/minecraft**
 
 **sudo blkid**\
-****![](<../../.gitbook/assets/image (11) (2).png>)****
+****![](<../../.gitbook/assets/image (11).png>)****
 
 You'll want to copy and paste the sdb UUID to a notepad, for later use. \
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 **sudo nano /etc/fstab**\
 ****![](<../../.gitbook/assets/image (15).png>)****
 
 At the bottom of this document, you'll want to paste in your UUID, followed by this information, and shown here. \
 **UUID="UUID goes here" /mnt/minecraft ext4 defaults,noatime,\_netdev 0 2**\
-****![](<../../.gitbook/assets/image (18) (1).png>)****
+****![](<../../.gitbook/assets/image (18).png>)****
 
 Ctrl+X, and then Y after this window pops up. \
 ![](<../../.gitbook/assets/image (10).png>)
@@ -42,7 +42,7 @@ Ctrl+X, and then Y after this window pops up. \
 
 **df -aTh**\
 ****This is checking to make sure the Block Volume is properly mounted. At the very bottom of the list, you should see /dev/sdb, with a size of \~143G. This will indicate that your block volume is correctly attached to your instance.\
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 
 

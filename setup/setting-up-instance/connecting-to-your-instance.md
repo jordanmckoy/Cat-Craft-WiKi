@@ -4,10 +4,10 @@ There are many ways to connect to your instance via PowerShell. Personally, I li
 
 Open Termius, and in the upper left hand corner, you should see a small Gear Icon.&#x20;
 
-![](<../../.gitbook/assets/image (2) (4).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 Within your Preferences section, you'll want to click on Keychain, to setup your new Instances Private Key. \
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 Click on New, and a side window should pop open. You'll want to fill out Set a Label, and then drag and drop your key file into the bottom box, and hit Export to Host.\
 ![](<../../.gitbook/assets/image (25).png>)

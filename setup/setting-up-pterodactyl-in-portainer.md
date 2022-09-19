@@ -8,29 +8,29 @@ N.B. If you haven't read [setting-up-instance-portainer-agent.md](setting-up-ins
 
 Log into Portainer and select the environment that you set up had set up on Portainer agent.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Select any of the highlighted areas in the picture below
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Select Add Stack
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 After reading [panel-docker-compose-file.md](../resources/panel-docker-compose-file.md "mention") you can edit the values as you need, I'm going to leave it as default. Paste the config file here in the web editor
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 You can now deploy the stack and you will be golden.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 You can now see all the stack you deployed
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 To access your webpage, navigate to the [FQDN ](https://www.google.com/search?q=fqdn\&rlz=1C1GCEA\_enJM1022JM1022\&oq=FQDN\&aqs=chrome.0.0i67j0i512l9.1960j0j7\&sourceid=chrome\&ie=UTF-8)you set or the ipaddress in your browser.
 

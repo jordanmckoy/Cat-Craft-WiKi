@@ -24,17 +24,17 @@
 
 [PetOwner](https://www.curseforge.com/minecraft/mc-mods/pet-owner) - Look at pets, see who owns them.&#x20;
 
-[SmoothBoot Fabric](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - Optimizes Fabric Minecraft Loading times.
+[SmoothBoot Fabric](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - Optimizes Fabric Minecraft loading times.
 
-[Starlight](https://modrinth.com/mod/starlight) - Rewrote the Minecraft lighting engine
+[Starlight](https://modrinth.com/mod/starlight) - Rewrites the Minecraft lighting engine
 
 [Status](https://github.com/henkelmax/status) - Allows players to set their current Status for recording, streaming or Do Not Disturb
 
 [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - Client-side that aids redstoners automate mundane manual tasks and some nice tweaks.
 
-[Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) - Client-side Minimap
+[Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) - Client side Mini map
 
-[Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files) - Client-side World map, works in conjunction with the minimap.
+[Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files) - Client side World map, works in conjunction with the mini map.
 
 
 
