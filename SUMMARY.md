@@ -45,5 +45,6 @@
 ***
 
 * [Resources](resources/README.md)
+  * [Portainer Resources](resources/portainer-resources.md)
   * [Panel Docker Compose File](resources/panel-docker-compose-file.md)
   * [Wings Docker Compose File](resources/wings-docker-compose-file.md)
