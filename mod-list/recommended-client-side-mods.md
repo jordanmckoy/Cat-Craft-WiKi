@@ -26,7 +26,7 @@
 
 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Simple Voice Chat allows you to speak with other players within your area
 
-\[Simple Voice Chat]\(https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Simple Voice Chat allows you to speak with other players within your area
+[Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Simple Voice Chat allows you to speak with other players within your area
 
 [SmoothBoot Fabric](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - Optimizes Fabric Minecraft loading times.
 
