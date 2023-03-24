@@ -4,7 +4,7 @@
 
 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files) - Allows the other mods to function
 
-[FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Reduces memory usage.&#x20;
+[FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Reduces memory usage.
 
 [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller) - Client-side that aids redstoners automate mundane manual tasks.
 
@@ -22,9 +22,11 @@
 
 [Optifine](https://optifine.net/downloads) - It's Optifine.
 
-[PetOwner](https://www.curseforge.com/minecraft/mc-mods/pet-owner) - Look at pets, see who owns them.&#x20;
+[PetOwner](https://www.curseforge.com/minecraft/mc-mods/pet-owner) - Look at pets, see who owns them.
 
 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Simple Voice Chat allows you to speak with other players within your area
+
+\[Simple Voice Chat]\(https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - Simple Voice Chat allows you to speak with other players within your area
 
 [SmoothBoot Fabric](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - Optimizes Fabric Minecraft loading times.
 
@@ -37,6 +39,3 @@
 [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) - Client side Mini map
 
 [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files) - Client side World map, works in conjunction with the mini map.
-
-
-
